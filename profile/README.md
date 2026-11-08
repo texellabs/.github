@@ -1,4 +1,26 @@
-# Texel
+<a href="https://texel.run">
+  <img width="100%" alt="Texel: the Playground makes images, video, and voice from a prompt, and GPU rental rents NVIDIA GPUs by the second." src="banner.png" />
+</a>
+
+<p align="center">
+  <a href="https://texel.run">Website</a>
+  ·
+  <a href="https://texel.run/playground">Playground</a>
+  ·
+  <a href="https://texel.run/marketplace">GPU rental</a>
+  ·
+  <a href="https://texel.run/docs">Docs</a>
+  ·
+  <a href="https://texel.run/receipts">Receipts</a>
+  ·
+  <a href="https://texel.run/roadmap">Roadmap</a>
+  ·
+  <a href="https://texel.run/changelog">Changelog</a>
+  ·
+  <a href="https://x.com/texelrun">X</a>
+</p>
+
+## About Texel
 
 The onchain GPU cloud on Robinhood Chain, for you or your agent. Rent NVIDIA GPUs and make images,
 video, and voice from one wallet.
@@ -29,10 +51,7 @@ every wallet. The [roadmap](https://texel.run/roadmap) shows each one.
 - [contracts](https://github.com/texellabs/contracts): `TexelReceipts` and `TexelEarn`, the
   contracts of Texel on Robinhood Chain.
 
-## Links
+## $TEXEL
 
-- Site: [texel.run](https://texel.run)
-- Docs: [texel.run/docs](https://texel.run/docs)
-- Receipts: [texel.run/receipts](https://texel.run/receipts)
-- X: [@texelrun](https://x.com/texelrun)
-- $TEXEL: [`0x0ddcab9ae04bda0c87ecc1640636fa11e8e613e8`](https://robin.etherscan.io/token/0x0ddcab9ae04bda0c87ecc1640636fa11e8e613e8)
+[`0x0ddcab9ae04bda0c87ecc1640636fa11e8e613e8`](https://robin.etherscan.io/token/0x0ddcab9ae04bda0c87ecc1640636fa11e8e613e8)
+on Robinhood Chain.
