@@ -30,11 +30,11 @@ video, and voice from one wallet.
 - **Wallet sign-in.** Your wallet is your account, and one signed message gets you in.
 - **Images, video, and voice.** The Playground makes outputs from ready models, each paid per
   output, and an output keeps being made after you leave the page.
-- **GPU rental.** 28 NVIDIA GPUs with SSH and Jupyter, billed by the second in Texel credits. Open
-  to tester wallets.
-- **Texel credits.** Every wallet buys credits with USDG, and Texel pays the gas of each deposit.
-  One credit pays for $1 of outputs and rentals at their listed prices and costs 0.70 USDG at
-  launch.
+- **GPU rental.** 28 NVIDIA GPUs with SSH and Jupyter, billed by the second in Texel credits. Every
+  wallet that signs in rents.
+- **Texel credits.** Every wallet buys credits with one transfer of USDG to the Texel deposit
+  contract. One credit pays for $1 of outputs and rentals at their listed prices and costs 0.70
+  USDG at launch.
 - **Free outputs.** A wallet with 1,000 $TEXEL makes 50 images and 2 videos free every UTC day.
 - **Onchain receipts.** Every rental and output gets a receipt, and each hour of receipts is sealed
   in one root on Robinhood Chain.
@@ -43,13 +43,13 @@ video, and voice from one wallet.
 
 ## Next
 
-x402 payments for agents, API keys, a budget for each agent, an MCP server, and GPU rental for
-every wallet. The [roadmap](https://texel.run/roadmap) shows each one.
+x402 payments for agents, API keys, a budget for each agent, and an MCP server. The
+[roadmap](https://texel.run/roadmap) shows each one.
 
 ## Repositories
 
-- [contracts](https://github.com/texellabs/contracts): `TexelReceipts` and `TexelEarn`, the
-  contracts of Texel on Robinhood Chain.
+- [contracts](https://github.com/texellabs/contracts): `TexelReceipts`, `TexelEarn`, and
+  `TexelDeposits`, the contracts of Texel on Robinhood Chain.
 
 ## $TEXEL
 
