@@ -20,6 +20,12 @@
   <a href="https://x.com/texelrun">X</a>
 </p>
 
+<p align="center">
+  <a href="https://heyresearch.xyz/project/texel?utm_source=badge&utm_medium=readme">
+    <img alt="Texel on HEY Research Lab" src="https://heyresearch.xyz/api/badge/texel?style=pill" />
+  </a>
+</p>
+
 ## About Texel
 
 The onchain GPU cloud on Robinhood Chain, for you or your agent. Rent NVIDIA GPUs and make images,
